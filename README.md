@@ -21,7 +21,7 @@ It loads a dataset of **Tamil Nadu flood events (2024)**, embeds the data into a
 
 ## 📂 Project Structure
 ```
-ai-agent/
+tn_flood_analysis/
 │
 ├── main.py                     # Entry point for Q&A
 ├── vector.py                   # Builds Chroma vector DB from CSV
@@ -35,8 +35,8 @@ ai-agent/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-agent.git
-cd ai-agent
+git clone https://github.com/your-username/tn_flood_analysis.git
+cd tn_flood_analysis
 ```
 
 ### 2. Install dependencies
